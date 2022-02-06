@@ -55,8 +55,9 @@ body {
 }
 
 a {
+	
 	color: rgb(192, 23, 104);
-	border-bottom: dotted 1px rgb(192, 23, 104);
+	/*border-bottom: dotted 4px rgba(0, 0, 0,0.8);*/
 }
 
 /*
@@ -65,7 +66,7 @@ a {
 
 a:hover {
 	color: rgb(156, 18, 140);
-	border-bottom: dotted 1px rgb(156, 18, 140);
+	/*border-bottom: dotted 1px rgb(156, 18, 140);*/
 }
 
 .sparator {
